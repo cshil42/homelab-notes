@@ -1,0 +1,1 @@
+This is a Repo i've set up to store and record my progress while i'm trying to get Network+ and RHCSA certifications, it will hold lab configs, notes, and write ups on projects i'm doing during the certification and learning progress.
